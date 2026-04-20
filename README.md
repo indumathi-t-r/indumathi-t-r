@@ -18,8 +18,8 @@
 
 Software Engineer with **3+ years of experience** building scalable backend systems, REST APIs, and enterprise data pipelines. Currently pursuing my **MS in Computer Science (AI/ML Track)** at the University at Buffalo, and interning as a Software Engineer at UB's A2IL lab.
 
-- 🏛️ **MS CS (AI/ML)** — University at Buffalo *(Aug 2024 – Dec 2025)*
 - 💼 **Software Engineer Intern** — UB A2IL *(Feb 2026 – Present)*
+- 🏛️ **MS CS (AI/ML)** — University at Buffalo *(Aug 2024 – Dec 2025)*
 - 🏢 **Software Engineer** — Accenture *(Aug 2022 – Aug 2024)*
 - 🌱 Exploring **GenAI, RAG, Distributed Systems & System Design**
 
